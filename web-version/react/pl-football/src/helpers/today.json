@@ -1,0 +1,2256 @@
+[
+    {
+        "id": 3,
+        "countryId": 26,
+        "name": "Premier League",
+        "slug": "premier-league",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/3.png",
+        "uniqueName": "Premier League",
+        "popular": 1,
+        "order": 3,
+        "country": {
+            "id": 26,
+            "name": "England"
+        },
+        "events": [
+            {
+                "id": 744966,
+                "leagueId": 3,
+                "localteamId": 171,
+                "visitorteamId": 134,
+                "startTime": "00:20:21",
+                "slug": "southampton-leicester-city",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 2,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 171,
+                    "name": "Southampton"
+                },
+                "awayTeam": {
+                    "id": 134,
+                    "name": "Leicester City"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/southampton-leicester-city-highlights/744966?type=soccer"
+            },
+            {
+                "id": 744965,
+                "leagueId": 3,
+                "localteamId": 142,
+                "visitorteamId": 90,
+                "startTime": "00:20:21",
+                "slug": "wolverhampton-wanderers-burnley",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 0,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 142,
+                    "name": "Wolverhampton Wanderers"
+                },
+                "awayTeam": {
+                    "id": 90,
+                    "name": "Burnley"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/wolverhampton-wanderers-burnley-highlights/744965?type=soccer"
+            },
+            {
+                "id": 744964,
+                "leagueId": 3,
+                "localteamId": 89,
+                "visitorteamId": 116,
+                "startTime": "00:20:21",
+                "slug": "west-ham-united-brighton-\u0026-hove-albion",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 1,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 89,
+                    "name": "West Ham United"
+                },
+                "awayTeam": {
+                    "id": 116,
+                    "name": "Brighton \u0026 Hove Albion"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/west-ham-united-brighton-\u0026-hove-albion-highlights/744964?type=soccer"
+            },
+            {
+                "id": 744963,
+                "leagueId": 3,
+                "localteamId": 175,
+                "visitorteamId": 306,
+                "startTime": "00:20:21",
+                "slug": "watford-chelsea",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 1,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 175,
+                    "name": "Watford"
+                },
+                "awayTeam": {
+                    "id": 306,
+                    "name": "Chelsea"
+                },
+                "statusDescription": "85",
+                "minute": 85,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/watford-chelsea-highlights/744963?type=soccer"
+            },
+            {
+                "id": 744981,
+                "leagueId": 3,
+                "localteamId": 91,
+                "visitorteamId": 137,
+                "startTime": "00:20:21",
+                "slug": "everton-liverpool",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638389700,
+                "hScore": 1,
+                "vScore": 3,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 3
+                },
+                "homeTeam": {
+                    "id": 91,
+                    "name": "Everton"
+                },
+                "awayTeam": {
+                    "id": 137,
+                    "name": "Liverpool"
+                },
+                "statusDescription": "76",
+                "minute": 76,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/everton-liverpool-highlights/744981?type=soccer"
+            },
+            {
+                "id": 744980,
+                "leagueId": 3,
+                "localteamId": 86,
+                "visitorteamId": 173,
+                "startTime": "00:20:21",
+                "slug": "aston-villa-manchester-city",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638389700,
+                "hScore": 1,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 86,
+                    "name": "Aston Villa"
+                },
+                "awayTeam": {
+                    "id": 173,
+                    "name": "Manchester City"
+                },
+                "statusDescription": "75",
+                "minute": 75,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/aston-villa-manchester-city-highlights/744980?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "countryId": 5,
+        "name": "La Liga",
+        "slug": "la-liga",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/194.png",
+        "uniqueName": "La Liga",
+        "popular": 1,
+        "order": 7,
+        "country": {
+            "id": 5,
+            "name": "Spain"
+        },
+        "events": [
+            {
+                "id": 713540,
+                "leagueId": 194,
+                "localteamId": 233,
+                "visitorteamId": 242,
+                "startTime": "00:20:21",
+                "slug": "real-madrid-athletic-club",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638388800,
+                "hScore": 1,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 233,
+                    "name": "Real Madrid"
+                },
+                "awayTeam": {
+                    "id": 242,
+                    "name": "Athletic Club"
+                },
+                "statusDescription": "90",
+                "minute": 90,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/real-madrid-athletic-club-highlights/713540?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "countryId": 20,
+        "name": "Serie A",
+        "slug": "serie-a",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/136.png",
+        "uniqueName": "Serie A",
+        "popular": 1,
+        "order": 10,
+        "country": {
+            "id": 20,
+            "name": "Italy"
+        },
+        "events": [
+            {
+                "id": 744957,
+                "leagueId": 136,
+                "localteamId": 328,
+                "visitorteamId": 782,
+                "startTime": "00:20:21",
+                "slug": "inter-spezia",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638379800,
+                "hScore": 2,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 328,
+                    "name": "Inter"
+                },
+                "awayTeam": {
+                    "id": 782,
+                    "name": "Spezia"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/inter-spezia-highlights/744957?type=soccer"
+            },
+            {
+                "id": 744956,
+                "leagueId": 136,
+                "localteamId": 400,
+                "visitorteamId": 203,
+                "startTime": "00:20:21",
+                "slug": "bologna-roma",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638379800,
+                "hScore": 1,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 400,
+                    "name": "Bologna"
+                },
+                "awayTeam": {
+                    "id": 203,
+                    "name": "Roma"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/bologna-roma-highlights/744956?type=soccer"
+            },
+            {
+                "id": 744974,
+                "leagueId": 136,
+                "localteamId": 784,
+                "visitorteamId": 206,
+                "startTime": "00:20:21",
+                "slug": "sassuolo-napoli",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387900,
+                "hScore": 2,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 784,
+                    "name": "Sassuolo"
+                },
+                "awayTeam": {
+                    "id": 206,
+                    "name": "Napoli"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/sassuolo-napoli-highlights/744974?type=soccer"
+            },
+            {
+                "id": 744973,
+                "leagueId": 136,
+                "localteamId": 199,
+                "visitorteamId": 352,
+                "startTime": "00:20:21",
+                "slug": "genoa-milan",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387900,
+                "hScore": 0,
+                "vScore": 3,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 3
+                },
+                "homeTeam": {
+                    "id": 199,
+                    "name": "Genoa"
+                },
+                "awayTeam": {
+                    "id": 352,
+                    "name": "Milan"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/genoa-milan-highlights/744973?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "countryId": 3,
+        "name": "Ligue 1",
+        "slug": "ligue-1",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/109.png",
+        "uniqueName": "Ligue 1",
+        "popular": 1,
+        "order": 12,
+        "country": {
+            "id": 3,
+            "name": "France"
+        },
+        "events": [
+            {
+                "id": 744860,
+                "leagueId": 109,
+                "localteamId": 678,
+                "visitorteamId": 135,
+                "startTime": "00:20:21",
+                "slug": "troyes-lorient",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638381600,
+                "hScore": 2,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 678,
+                    "name": "Troyes"
+                },
+                "awayTeam": {
+                    "id": 135,
+                    "name": "Lorient"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/troyes-lorient-highlights/744860?type=soccer"
+            },
+            {
+                "id": 744859,
+                "leagueId": 109,
+                "localteamId": 740,
+                "visitorteamId": 395,
+                "startTime": "00:20:21",
+                "slug": "strasbourg-bordeaux",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638381600,
+                "hScore": 5,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 5
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 740,
+                    "name": "Strasbourg"
+                },
+                "awayTeam": {
+                    "id": 395,
+                    "name": "Bordeaux"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/strasbourg-bordeaux-highlights/744859?type=soccer"
+            },
+            {
+                "id": 744855,
+                "leagueId": 109,
+                "localteamId": 246,
+                "visitorteamId": 251,
+                "startTime": "00:20:21",
+                "slug": "metz-montpellier",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638381600,
+                "hScore": 1,
+                "vScore": 3,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 3
+                },
+                "homeTeam": {
+                    "id": 246,
+                    "name": "Metz"
+                },
+                "awayTeam": {
+                    "id": 251,
+                    "name": "Montpellier"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/metz-montpellier-highlights/744855?type=soccer"
+            },
+            {
+                "id": 744852,
+                "leagueId": 109,
+                "localteamId": 1239,
+                "visitorteamId": 230,
+                "startTime": "00:20:21",
+                "slug": "brest-saint-étienne",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638381600,
+                "hScore": 1,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 1239,
+                    "name": "Brest"
+                },
+                "awayTeam": {
+                    "id": 230,
+                    "name": "Saint-Étienne"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/brest-saint-étienne-highlights/744852?type=soccer"
+            },
+            {
+                "id": 744851,
+                "leagueId": 109,
+                "localteamId": 1287,
+                "visitorteamId": 195,
+                "startTime": "00:20:21",
+                "slug": "angers-sco-monaco",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638381600,
+                "hScore": 1,
+                "vScore": 3,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 3
+                },
+                "homeTeam": {
+                    "id": 1287,
+                    "name": "Angers SCO"
+                },
+                "awayTeam": {
+                    "id": 195,
+                    "name": "Monaco"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/angers-sco-monaco-highlights/744851?type=soccer"
+            },
+            {
+                "id": 744858,
+                "leagueId": 109,
+                "localteamId": 411,
+                "visitorteamId": 305,
+                "startTime": "00:20:21",
+                "slug": "rennes-lille",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638388800,
+                "hScore": 1,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 411,
+                    "name": "Rennes"
+                },
+                "awayTeam": {
+                    "id": 305,
+                    "name": "Lille"
+                },
+                "statusDescription": "90",
+                "minute": 90,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/rennes-lille-highlights/744858?type=soccer"
+            },
+            {
+                "id": 744857,
+                "leagueId": 109,
+                "localteamId": 224,
+                "visitorteamId": 385,
+                "startTime": "00:20:21",
+                "slug": "paris-saint-germain-nice",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638388800,
+                "hScore": 0,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 224,
+                    "name": "Paris Saint Germain"
+                },
+                "awayTeam": {
+                    "id": 385,
+                    "name": "Nice"
+                },
+                "statusDescription": "88",
+                "minute": 88,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/paris-saint-germain-nice-highlights/744857?type=soccer"
+            },
+            {
+                "id": 744856,
+                "leagueId": 109,
+                "localteamId": 582,
+                "visitorteamId": 228,
+                "startTime": "00:20:21",
+                "slug": "nantes-olympique-marseille",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638388800,
+                "hScore": 0,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 582,
+                    "name": "Nantes"
+                },
+                "awayTeam": {
+                    "id": 228,
+                    "name": "Olympique Marseille"
+                },
+                "statusDescription": "90",
+                "minute": 90,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/nantes-olympique-marseille-highlights/744856?type=soccer"
+            },
+            {
+                "id": 744854,
+                "leagueId": 109,
+                "localteamId": 222,
+                "visitorteamId": 453,
+                "startTime": "00:20:21",
+                "slug": "olympique-lyonnais-reims",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638388800,
+                "hScore": 1,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 222,
+                    "name": "Olympique Lyonnais"
+                },
+                "awayTeam": {
+                    "id": 453,
+                    "name": "Reims"
+                },
+                "statusDescription": "90",
+                "minute": 90,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/olympique-lyonnais-reims-highlights/744854?type=soccer"
+            },
+            {
+                "id": 744853,
+                "leagueId": 109,
+                "localteamId": 1159,
+                "visitorteamId": 197,
+                "startTime": "00:20:21",
+                "slug": "clermont-lens",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638388800,
+                "hScore": 2,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 1159,
+                    "name": "Clermont"
+                },
+                "awayTeam": {
+                    "id": 197,
+                    "name": "Lens"
+                },
+                "statusDescription": "90",
+                "minute": 90,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/clermont-lens-highlights/744853?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 263,
+        "countryId": 186,
+        "name": "Major League Soccer",
+        "slug": "major-league-soccer",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/263.png",
+        "uniqueName": "Major League Soccer",
+        "popular": 1,
+        "order": 15,
+        "country": {
+            "id": 186,
+            "name": "USA"
+        },
+        "events": [
+            {
+                "id": 756636,
+                "leagueId": 263,
+                "localteamId": 1632,
+                "visitorteamId": 506,
+                "startTime": "00:20:21",
+                "slug": "new-england-new-york-city",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638318600,
+                "hScore": 2,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 1632,
+                    "name": "New England"
+                },
+                "awayTeam": {
+                    "id": 506,
+                    "name": "New York City"
+                },
+                "statusDescription": "FT_PEN",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/new-england-new-york-city-highlights/756636?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "countryId": 26,
+        "name": "Premier League Cup",
+        "slug": "premier-league-cup",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/13.png",
+        "uniqueName": "Premier League Cup",
+        "popular": 1,
+        "order": 17,
+        "country": {
+            "id": 26,
+            "name": "England"
+        },
+        "events": [
+            {
+                "id": 744961,
+                "leagueId": 13,
+                "localteamId": 5504,
+                "visitorteamId": 14564,
+                "startTime": "00:20:21",
+                "slug": "everton-u23-peterborough-united-u23",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638385200,
+                "hScore": 0,
+                "vScore": 3,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 3
+                },
+                "homeTeam": {
+                    "id": 5504,
+                    "name": "Everton U23"
+                },
+                "awayTeam": {
+                    "id": 14564,
+                    "name": "Peterborough United U23"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/everton-u23-peterborough-united-u23-highlights/744961?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "countryId": 26,
+        "name": "EFL Trophy",
+        "slug": "efl-trophy",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/16.png",
+        "uniqueName": "EFL Trophy",
+        "popular": 1,
+        "order": 18,
+        "country": {
+            "id": 26,
+            "name": "England"
+        },
+        "events": [
+            {
+                "id": 752622,
+                "leagueId": 16,
+                "localteamId": 78,
+                "visitorteamId": 321,
+                "startTime": "00:20:21",
+                "slug": "sunderland-oldham-athletic",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638385200,
+                "hScore": 0,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 78,
+                    "name": "Sunderland"
+                },
+                "awayTeam": {
+                    "id": 321,
+                    "name": "Oldham Athletic"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/sunderland-oldham-athletic-highlights/752622?type=soccer"
+            },
+            {
+                "id": 752621,
+                "leagueId": 16,
+                "localteamId": 75,
+                "visitorteamId": 622,
+                "startTime": "00:20:21",
+                "slug": "sheffield-wednesday-hartlepool-united",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638385200,
+                "hScore": 0,
+                "vScore": 3,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 3
+                },
+                "homeTeam": {
+                    "id": 75,
+                    "name": "Sheffield Wednesday"
+                },
+                "awayTeam": {
+                    "id": 622,
+                    "name": "Hartlepool United"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/sheffield-wednesday-hartlepool-united-highlights/752621?type=soccer"
+            },
+            {
+                "id": 752627,
+                "leagueId": 16,
+                "localteamId": 85,
+                "visitorteamId": 14528,
+                "startTime": "00:20:21",
+                "slug": "ipswich-town-arsenal-u21",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387900,
+                "hScore": 2,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 85,
+                    "name": "Ipswich Town"
+                },
+                "awayTeam": {
+                    "id": 14528,
+                    "name": "Arsenal U21"
+                },
+                "statusDescription": "FT_PEN",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/ipswich-town-arsenal-u21-highlights/752627?type=soccer"
+            },
+            {
+                "id": 752620,
+                "leagueId": 16,
+                "localteamId": 138,
+                "visitorteamId": 132,
+                "startTime": "00:20:21",
+                "slug": "crewe-alexandra-doncaster-rovers",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387900,
+                "hScore": 2,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 138,
+                    "name": "Crewe Alexandra"
+                },
+                "awayTeam": {
+                    "id": 132,
+                    "name": "Doncaster Rovers"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/crewe-alexandra-doncaster-rovers-highlights/752620?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "countryId": 5,
+        "name": "Copa Del Rey",
+        "slug": "copa-del-rey",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/196.png",
+        "uniqueName": "Copa Del Rey",
+        "popular": 1,
+        "order": 20,
+        "country": {
+            "id": 5,
+            "name": "Spain"
+        },
+        "events": [
+            {
+                "id": 754897,
+                "leagueId": 196,
+                "localteamId": 6379,
+                "visitorteamId": 336,
+                "startTime": "00:20:21",
+                "slug": "mensajero-real-zaragoza",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638372600,
+                "hScore": 0,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 6379,
+                    "name": "Mensajero"
+                },
+                "awayTeam": {
+                    "id": 336,
+                    "name": "Real Zaragoza"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/mensajero-real-zaragoza-highlights/754897?type=soccer"
+            },
+            {
+                "id": 754919,
+                "leagueId": 196,
+                "localteamId": 3230,
+                "visitorteamId": 5246,
+                "startTime": "00:20:21",
+                "slug": "bergantiños-tudelano",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638379800,
+                "hScore": 2,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 3230,
+                    "name": "Bergantiños"
+                },
+                "awayTeam": {
+                    "id": 5246,
+                    "name": "Tudelano"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/bergantiños-tudelano-highlights/754919?type=soccer"
+            },
+            {
+                "id": 754935,
+                "leagueId": 196,
+                "localteamId": 3203,
+                "visitorteamId": 1689,
+                "startTime": "00:20:21",
+                "slug": "algeciras-unionistas-de-salamanca",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638381600,
+                "hScore": 1,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 3203,
+                    "name": "Algeciras"
+                },
+                "awayTeam": {
+                    "id": 1689,
+                    "name": "Unionistas de Salamanca"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/algeciras-unionistas-de-salamanca-highlights/754935?type=soccer"
+            },
+            {
+                "id": 754916,
+                "leagueId": 196,
+                "localteamId": 8757,
+                "visitorteamId": 783,
+                "startTime": "00:20:21",
+                "slug": "brea-ud-ibiza",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638381600,
+                "hScore": 0,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 8757,
+                    "name": "Brea"
+                },
+                "awayTeam": {
+                    "id": 783,
+                    "name": "UD Ibiza"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/brea-ud-ibiza-highlights/754916?type=soccer"
+            },
+            {
+                "id": 754895,
+                "leagueId": 196,
+                "localteamId": 2641,
+                "visitorteamId": 280,
+                "startTime": "00:20:21",
+                "slug": "gimnástica-segoviana-mallorca",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638381600,
+                "hScore": 0,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 2641,
+                    "name": "Gimnástica Segoviana"
+                },
+                "awayTeam": {
+                    "id": 280,
+                    "name": "Mallorca"
+                },
+                "statusDescription": "AET",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/gimnástica-segoviana-mallorca-highlights/754895?type=soccer"
+            },
+            {
+                "id": 754890,
+                "leagueId": 196,
+                "localteamId": 485,
+                "visitorteamId": 204,
+                "startTime": "00:20:21",
+                "slug": "córdoba-sevilla",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638381600,
+                "hScore": 0,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 485,
+                    "name": "Córdoba"
+                },
+                "awayTeam": {
+                    "id": 204,
+                    "name": "Sevilla"
+                },
+                "statusDescription": "AET",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/córdoba-sevilla-highlights/754890?type=soccer"
+            },
+            {
+                "id": 754886,
+                "leagueId": 196,
+                "localteamId": 8534,
+                "visitorteamId": 238,
+                "startTime": "00:20:21",
+                "slug": "solares-espanyol",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638381600,
+                "hScore": 2,
+                "vScore": 3,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 3
+                },
+                "homeTeam": {
+                    "id": 8534,
+                    "name": "Solares"
+                },
+                "awayTeam": {
+                    "id": 238,
+                    "name": "Espanyol"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/solares-espanyol-highlights/754886?type=soccer"
+            },
+            {
+                "id": 754929,
+                "leagueId": 196,
+                "localteamId": 1637,
+                "visitorteamId": 340,
+                "startTime": "00:20:21",
+                "slug": "ucam-murcia-deportivo-la-coruña",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638385200,
+                "hScore": 3,
+                "vScore": 4,
+                "homeScore": {
+                    "current": 3
+                },
+                "awayScore": {
+                    "current": 4
+                },
+                "homeTeam": {
+                    "id": 1637,
+                    "name": "UCAM Murcia"
+                },
+                "awayTeam": {
+                    "id": 340,
+                    "name": "Deportivo La Coruña"
+                },
+                "statusDescription": "AET",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/ucam-murcia-deportivo-la-coruña-highlights/754929?type=soccer"
+            },
+            {
+                "id": 754924,
+                "leagueId": 196,
+                "localteamId": 8609,
+                "visitorteamId": 8473,
+                "startTime": "00:20:21",
+                "slug": "mancha-real-internacional",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638385200,
+                "hScore": 2,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 8609,
+                    "name": "Mancha Real"
+                },
+                "awayTeam": {
+                    "id": 8473,
+                    "name": "Internacional"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/mancha-real-internacional-highlights/754924?type=soccer"
+            },
+            {
+                "id": 754922,
+                "leagueId": 196,
+                "localteamId": 8715,
+                "visitorteamId": 1693,
+                "startTime": "00:20:21",
+                "slug": "san-juan-ss-reyes",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638385200,
+                "hScore": 1,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 8715,
+                    "name": "San Juan"
+                },
+                "awayTeam": {
+                    "id": 1693,
+                    "name": "SS Reyes"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/san-juan-ss-reyes-highlights/754922?type=soccer"
+            },
+            {
+                "id": 754914,
+                "leagueId": 196,
+                "localteamId": 14487,
+                "visitorteamId": 510,
+                "startTime": "00:20:21",
+                "slug": "andratx-real-oviedo",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638385200,
+                "hScore": 2,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 14487,
+                    "name": "Andratx"
+                },
+                "awayTeam": {
+                    "id": 510,
+                    "name": "Real Oviedo"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/andratx-real-oviedo-highlights/754914?type=soccer"
+            },
+            {
+                "id": 754905,
+                "leagueId": 196,
+                "localteamId": 1691,
+                "visitorteamId": 1634,
+                "startTime": "00:20:21",
+                "slug": "alzira-fuenlabrada",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638385200,
+                "hScore": 0,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 1691,
+                    "name": "Alzira"
+                },
+                "awayTeam": {
+                    "id": 1634,
+                    "name": "Fuenlabrada"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/alzira-fuenlabrada-highlights/754905?type=soccer"
+            },
+            {
+                "id": 754934,
+                "leagueId": 196,
+                "localteamId": 8485,
+                "visitorteamId": 607,
+                "startTime": "00:20:21",
+                "slug": "talavera-cf-cornellà",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638386100,
+                "hScore": 2,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 8485,
+                    "name": "Talavera CF"
+                },
+                "awayTeam": {
+                    "id": 607,
+                    "name": "Cornellà"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/talavera-cf-cornellà-highlights/754934?type=soccer"
+            },
+            {
+                "id": 754933,
+                "leagueId": 196,
+                "localteamId": 5440,
+                "visitorteamId": 1633,
+                "startTime": "00:20:21",
+                "slug": "san-fernando-cd-cultural-leonesa",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 2,
+                "vScore": 3,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 3
+                },
+                "homeTeam": {
+                    "id": 5440,
+                    "name": "San Fernando CD"
+                },
+                "awayTeam": {
+                    "id": 1633,
+                    "name": "Cultural Leonesa"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/san-fernando-cd-cultural-leonesa-highlights/754933?type=soccer"
+            },
+            {
+                "id": 754932,
+                "leagueId": 196,
+                "localteamId": 2774,
+                "visitorteamId": 505,
+                "startTime": "00:20:21",
+                "slug": "linares-deportivo-gimnàstic-tarragona",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 0,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 2774,
+                    "name": "Linares Deportivo"
+                },
+                "awayTeam": {
+                    "id": 505,
+                    "name": "Gimnàstic Tarragona"
+                },
+                "statusDescription": "ET",
+                "minute": 90,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/linares-deportivo-gimnàstic-tarragona-highlights/754932?type=soccer"
+            },
+            {
+                "id": 754927,
+                "leagueId": 196,
+                "localteamId": 363,
+                "visitorteamId": 2875,
+                "startTime": "00:20:21",
+                "slug": "extremadura-ud-zamora",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 1,
+                "vScore": 4,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 4
+                },
+                "homeTeam": {
+                    "id": 363,
+                    "name": "Extremadura UD"
+                },
+                "awayTeam": {
+                    "id": 2875,
+                    "name": "Zamora"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/extremadura-ud-zamora-highlights/754927?type=soccer"
+            },
+            {
+                "id": 754926,
+                "leagueId": 196,
+                "localteamId": 5178,
+                "visitorteamId": 292,
+                "startTime": "00:20:21",
+                "slug": "cd-calahorra-atlético-baleares",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 1,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 5178,
+                    "name": "CD Calahorra"
+                },
+                "awayTeam": {
+                    "id": 292,
+                    "name": "Atlético Baleares"
+                },
+                "statusDescription": "ET",
+                "minute": 90,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/cd-calahorra-atlético-baleares-highlights/754926?type=soccer"
+            },
+            {
+                "id": 754925,
+                "leagueId": 196,
+                "localteamId": 8500,
+                "visitorteamId": 2632,
+                "startTime": "00:20:21",
+                "slug": "arenteiro-sd-logroñés",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 2,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 8500,
+                    "name": "Arenteiro"
+                },
+                "awayTeam": {
+                    "id": 2632,
+                    "name": "SD Logroñés"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/arenteiro-sd-logroñés-highlights/754925?type=soccer"
+            },
+            {
+                "id": 754912,
+                "leagueId": 196,
+                "localteamId": 5483,
+                "visitorteamId": 514,
+                "startTime": "00:20:21",
+                "slug": "cacereño-ponferradina",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 1,
+                "vScore": 2,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 2
+                },
+                "homeTeam": {
+                    "id": 5483,
+                    "name": "Cacereño"
+                },
+                "awayTeam": {
+                    "id": 514,
+                    "name": "Ponferradina"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/cacereño-ponferradina-highlights/754912?type=soccer"
+            },
+            {
+                "id": 754901,
+                "leagueId": 196,
+                "localteamId": 8556,
+                "visitorteamId": 4612,
+                "startTime": "00:20:21",
+                "slug": "europa-amorebieta",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 0,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 8556,
+                    "name": "Europa"
+                },
+                "awayTeam": {
+                    "id": 4612,
+                    "name": "Amorebieta"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/europa-amorebieta-highlights/754901?type=soccer"
+            },
+            {
+                "id": 754900,
+                "leagueId": 196,
+                "localteamId": 5485,
+                "visitorteamId": 1683,
+                "startTime": "00:20:21",
+                "slug": "san-roque-de-lepe-mirandés",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638388800,
+                "hScore": 0,
+                "vScore": 3,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 3
+                },
+                "homeTeam": {
+                    "id": 5485,
+                    "name": "San Roque de Lepe"
+                },
+                "awayTeam": {
+                    "id": 1683,
+                    "name": "Mirandés"
+                },
+                "statusDescription": "88",
+                "minute": 88,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/san-roque-de-lepe-mirandés-highlights/754900?type=soccer"
+            },
+            {
+                "id": 754894,
+                "leagueId": 196,
+                "localteamId": 8663,
+                "visitorteamId": 447,
+                "startTime": "00:20:21",
+                "slug": "panadería-pulido-real-sociedad",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638388800,
+                "hScore": 0,
+                "vScore": 4,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 4
+                },
+                "homeTeam": {
+                    "id": 8663,
+                    "name": "Panadería Pulido"
+                },
+                "awayTeam": {
+                    "id": 447,
+                    "name": "Real Sociedad"
+                },
+                "statusDescription": "90",
+                "minute": 90,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/panadería-pulido-real-sociedad-highlights/754894?type=soccer"
+            },
+            {
+                "id": 754882,
+                "leagueId": 196,
+                "localteamId": 25603,
+                "visitorteamId": 237,
+                "startTime": "00:20:21",
+                "slug": "cfi-alicante-real-betis",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638388800,
+                "hScore": 0,
+                "vScore": 4,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 4
+                },
+                "homeTeam": {
+                    "id": 25603,
+                    "name": "CFI Alicante"
+                },
+                "awayTeam": {
+                    "id": 237,
+                    "name": "Real Betis"
+                },
+                "statusDescription": "88",
+                "minute": 88,
+                "status": {
+                    "type": "inprogress"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/cfi-alicante-real-betis-highlights/754882?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "countryId": 6,
+        "name": "Eredivisie",
+        "slug": "eredivisie",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/30.png",
+        "uniqueName": "Eredivisie",
+        "popular": 1,
+        "order": 25,
+        "country": {
+            "id": 6,
+            "name": "Netherlands"
+        },
+        "events": [
+            {
+                "id": 691096,
+                "leagueId": 30,
+                "localteamId": 361,
+                "visitorteamId": 365,
+                "startTime": "00:20:21",
+                "slug": "feyenoord-heracles-almelo",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638385200,
+                "hScore": 2,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 361,
+                    "name": "Feyenoord"
+                },
+                "awayTeam": {
+                    "id": 365,
+                    "name": "Heracles Almelo"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/feyenoord-heracles-almelo-highlights/691096?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "countryId": 22,
+        "name": "Super Liga",
+        "slug": "super-liga",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/184.png",
+        "uniqueName": "Super Liga",
+        "popular": 1,
+        "order": 60,
+        "country": {
+            "id": 22,
+            "name": "Serbia"
+        },
+        "events": [
+            {
+                "id": 696660,
+                "leagueId": 184,
+                "localteamId": 333,
+                "visitorteamId": 1502,
+                "startTime": "00:20:21",
+                "slug": "crvena-zvezda-voždovac",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638379800,
+                "hScore": 1,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 333,
+                    "name": "Crvena Zvezda"
+                },
+                "awayTeam": {
+                    "id": 1502,
+                    "name": "Voždovac"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/crvena-zvezda-voždovac-highlights/696660?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "countryId": 9,
+        "name": "Super League",
+        "slug": "super-league",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/203.png",
+        "uniqueName": "Super League",
+        "popular": 1,
+        "order": 65,
+        "country": {
+            "id": 9,
+            "name": "Switzerland"
+        },
+        "events": [
+            {
+                "id": 677320,
+                "leagueId": 203,
+                "localteamId": 901,
+                "visitorteamId": 941,
+                "startTime": "00:20:21",
+                "slug": "young-boys-lugano",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638387000,
+                "hScore": 3,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 3
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 901,
+                    "name": "Young Boys"
+                },
+                "awayTeam": {
+                    "id": 941,
+                    "name": "Lugano"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/young-boys-lugano-highlights/677320?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "countryId": 214,
+        "name": "Superliga",
+        "slug": "superliga",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/218.png",
+        "uniqueName": "Superliga",
+        "popular": 1,
+        "order": 69,
+        "country": {
+            "id": 214,
+            "name": "Argentina"
+        },
+        "events": [
+            {
+                "id": 742752,
+                "leagueId": 218,
+                "localteamId": 351,
+                "visitorteamId": 599,
+                "startTime": "00:20:21",
+                "slug": "banfield-independiente",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638318600,
+                "hScore": 4,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 4
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 351,
+                    "name": "Banfield"
+                },
+                "awayTeam": {
+                    "id": 599,
+                    "name": "Independiente"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/banfield-independiente-highlights/742752?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "countryId": 213,
+        "name": "Serie A",
+        "slug": "serie-a",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/222.png",
+        "uniqueName": "Serie A",
+        "popular": 1,
+        "order": 71,
+        "country": {
+            "id": 213,
+            "name": "Brazil"
+        },
+        "events": [
+            {
+                "id": 744355,
+                "leagueId": 222,
+                "localteamId": 558,
+                "visitorteamId": 4503,
+                "startTime": "00:20:21",
+                "slug": "flamengo-ceará",
+                "startDate": "2021-11-30",
+                "startTimestamp": 1638313200,
+                "hScore": 2,
+                "vScore": 1,
+                "homeScore": {
+                    "current": 2
+                },
+                "awayScore": {
+                    "current": 1
+                },
+                "homeTeam": {
+                    "id": 558,
+                    "name": "Flamengo"
+                },
+                "awayTeam": {
+                    "id": 4503,
+                    "name": "Ceará"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/flamengo-ceará-highlights/744355?type=soccer"
+            },
+            {
+                "id": 740214,
+                "leagueId": 222,
+                "localteamId": 924,
+                "visitorteamId": 4649,
+                "startTime": "00:20:21",
+                "slug": "américa-mineiro-chapecoense",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638316800,
+                "hScore": 3,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 3
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 924,
+                    "name": "América Mineiro"
+                },
+                "awayTeam": {
+                    "id": 4649,
+                    "name": "Chapecoense"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/américa-mineiro-chapecoense-highlights/740214?type=soccer"
+            },
+            {
+                "id": 744364,
+                "leagueId": 222,
+                "localteamId": 1808,
+                "visitorteamId": 419,
+                "startTime": "00:20:21",
+                "slug": "cuiabá-palmeiras",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638320400,
+                "hScore": 1,
+                "vScore": 3,
+                "homeScore": {
+                    "current": 1
+                },
+                "awayScore": {
+                    "current": 3
+                },
+                "homeTeam": {
+                    "id": 1808,
+                    "name": "Cuiabá"
+                },
+                "awayTeam": {
+                    "id": 419,
+                    "name": "Palmeiras"
+                },
+                "statusDescription": "FT",
+                "minute": 90,
+                "status": {
+                    "type": "finished"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/cuiabá-palmeiras-highlights/744364?type=soccer"
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "countryId": 219,
+        "name": "Liga BetPlay",
+        "slug": "liga-betplay",
+        "logo": "https://darsh.sportsvideo.net/soccer/leagues/230.png",
+        "uniqueName": "Liga BetPlay",
+        "popular": 1,
+        "order": 74,
+        "country": {
+            "id": 219,
+            "name": "Colombia"
+        },
+        "events": [
+            {
+                "id": 756630,
+                "leagueId": 230,
+                "localteamId": 681,
+                "visitorteamId": 516,
+                "startTime": "00:20:21",
+                "slug": "deportivo-pereira-atlético-nacional",
+                "startDate": "2021-12-01",
+                "startTimestamp": 1638399600,
+                "hScore": 0,
+                "vScore": 0,
+                "homeScore": {
+                    "current": 0
+                },
+                "awayScore": {
+                    "current": 0
+                },
+                "homeTeam": {
+                    "id": 681,
+                    "name": "Deportivo Pereira"
+                },
+                "awayTeam": {
+                    "id": 516,
+                    "name": "Atlético Nacional"
+                },
+                "statusDescription": "NS",
+                "minute": 0,
+                "status": {
+                    "type": "notstarted"
+                },
+                "hasStreams": true,
+                "hasHighlights": false,
+                "redditEventLink": null,
+                "eventLink": "https://sportsvideo.net/watch/deportivo-pereira-atlético-nacional-highlights/756630?type=soccer"
+            }
+        ]
+    }
+]

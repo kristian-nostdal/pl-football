@@ -34,7 +34,7 @@ ECHO Watch any Premier League matche online.
 ECHO ============================
 for %%a in (%PL-List%) do echo %%~a
 ECHO ============================
-ECHO Enter short-name of the teams: (eg. "Liv")
+ECHO Enter the short-name: (eg. "Liv")
 ECHO ============================
 
 :: Get the home team
@@ -51,3 +51,9 @@ set linkaway=!array[%away%]!
 
 :: Start the match. "START" is default browser
 START http://weakstreams.com/soccer-streams/premier-league/%linkhome%-vs-%linkaway%
+
+ECHO Redirecting you to stream. Enjoy the match!
+timeout 3 > NUL
+ECHO Thats it - Bye!
+timeout 1 > NUL
+:End
